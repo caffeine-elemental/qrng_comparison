@@ -1,0 +1,4 @@
+jupyterthemes
+scipy
+matplotlib
+seaborn
